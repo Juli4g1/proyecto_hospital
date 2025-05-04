@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard Hospitalario</title>
+</head>
+<body>
+    <h1>📊 Dashboard Hospitalario</h1>
+    <form action="/simular" method="POST">
+        <button type="submit">🧪 Simular Pacientes</button>
+    </form>
+    <h2>📝 Reportes Generados:</h2>
+    <ul>
+        {% for r in reportes %}
+            <li><a href="{{ url_for('ver_reporte', nombre=r) }}">{{ r }}</a></li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
