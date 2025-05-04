@@ -1,0 +1,17 @@
+
+📈 Reporte Final del Hospital
+👥 Total de pacientes simulados: 10
+✅ Admitidos: 8
+❌ Se retiraron: 2
+
+🔢 Prioridad 1:
+   ✅ Admitidos: 2
+   ❌ Retirados: 0
+
+🔢 Prioridad 2:
+   ✅ Admitidos: 5
+   ❌ Retirados: 0
+
+🔢 Prioridad 3:
+   ✅ Admitidos: 1
+   ❌ Retirados: 2

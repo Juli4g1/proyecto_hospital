@@ -1,0 +1,62 @@
+📄 Reporte generado: 2025-04-24_18-13-50
+==================================================
+👤 Paciente 1
+🩺 Síntomas: mareo
+📋 Diagnóstico: Chequeo neurológico sugerido
+⚠️ Nivel de urgencia: 3
+🏥 Estado final: admitted
+--------------------------------------------------
+👤 Paciente 2
+🩺 Síntomas: fiebre, mareo
+📋 Diagnóstico: Chequeo neurológico sugerido
+⚠️ Nivel de urgencia: 3
+🏥 Estado final: admitted
+--------------------------------------------------
+👤 Paciente 3
+🩺 Síntomas: dolor abdominal
+📋 Diagnóstico: Sospecha de gastritis o apendicitis
+⚠️ Nivel de urgencia: 2
+🏥 Estado final: admitted
+--------------------------------------------------
+👤 Paciente 4
+🩺 Síntomas: dolor abdominal
+📋 Diagnóstico: Sospecha de gastritis o apendicitis
+⚠️ Nivel de urgencia: 2
+🏥 Estado final: admitted
+--------------------------------------------------
+👤 Paciente 5
+🩺 Síntomas: dificultad para respirar, dolor abdominal, dolor de cabeza
+📋 Diagnóstico: Sospecha de gastritis o apendicitis
+⚠️ Nivel de urgencia: 2
+🏥 Estado final: admitted
+--------------------------------------------------
+👤 Paciente 6
+🩺 Síntomas: dolor abdominal, dificultad para respirar, mareo
+📋 Diagnóstico: Deshidratación o problema digestivo
+⚠️ Nivel de urgencia: 2
+🏥 Estado final: admitted
+--------------------------------------------------
+👤 Paciente 7
+🩺 Síntomas: fiebre
+📋 Diagnóstico: Síntomas virales leves
+⚠️ Nivel de urgencia: 3
+🏥 Estado final: admitted
+--------------------------------------------------
+👤 Paciente 8
+🩺 Síntomas: dolor de cabeza, dolor en el pecho
+📋 Diagnóstico: Evaluación cardíaca necesaria
+⚠️ Nivel de urgencia: 1
+🏥 Estado final: left
+--------------------------------------------------
+👤 Paciente 9
+🩺 Síntomas: dolor abdominal, dolor en el pecho, mareo
+📋 Diagnóstico: Deshidratación o problema digestivo
+⚠️ Nivel de urgencia: 2
+🏥 Estado final: admitted
+--------------------------------------------------
+👤 Paciente 10
+🩺 Síntomas: mareo, dolor abdominal
+📋 Diagnóstico: Deshidratación o problema digestivo
+⚠️ Nivel de urgencia: 2
+🏥 Estado final: left
+--------------------------------------------------

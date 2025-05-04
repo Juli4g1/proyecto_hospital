@@ -1,0 +1,62 @@
+📄 Reporte generado: 2025-04-24_17-24-23
+==================================================
+👤 Paciente 1
+🩺 Síntomas: mareo
+📋 Diagnóstico: Chequeo neurológico sugerido
+⚠️ Nivel de urgencia: 3
+🏥 Estado final: admitted
+--------------------------------------------------
+👤 Paciente 2
+🩺 Síntomas: dolor de cabeza, dolor abdominal
+📋 Diagnóstico: Sospecha de gastritis o apendicitis
+⚠️ Nivel de urgencia: 2
+🏥 Estado final: admitted
+--------------------------------------------------
+👤 Paciente 3
+🩺 Síntomas: dolor abdominal, mareo
+📋 Diagnóstico: Deshidratación o problema digestivo
+⚠️ Nivel de urgencia: 2
+🏥 Estado final: admitted
+--------------------------------------------------
+👤 Paciente 4
+🩺 Síntomas: dificultad para respirar
+📋 Diagnóstico: Observación general
+⚠️ Nivel de urgencia: 2
+🏥 Estado final: left
+--------------------------------------------------
+👤 Paciente 5
+🩺 Síntomas: dolor en el pecho, dificultad para respirar
+📋 Diagnóstico: Posible ataque cardíaco o problema respiratorio grave
+⚠️ Nivel de urgencia: 1
+🏥 Estado final: left
+--------------------------------------------------
+👤 Paciente 6
+🩺 Síntomas: dolor abdominal, dificultad para respirar, dolor de cabeza
+📋 Diagnóstico: Sospecha de gastritis o apendicitis
+⚠️ Nivel de urgencia: 2
+🏥 Estado final: admitted
+--------------------------------------------------
+👤 Paciente 7
+🩺 Síntomas: dificultad para respirar, fiebre, mareo
+📋 Diagnóstico: Chequeo neurológico sugerido
+⚠️ Nivel de urgencia: 3
+🏥 Estado final: admitted
+--------------------------------------------------
+👤 Paciente 8
+🩺 Síntomas: mareo, dificultad para respirar
+📋 Diagnóstico: Chequeo neurológico sugerido
+⚠️ Nivel de urgencia: 3
+🏥 Estado final: admitted
+--------------------------------------------------
+👤 Paciente 9
+🩺 Síntomas: fiebre
+📋 Diagnóstico: Síntomas virales leves
+⚠️ Nivel de urgencia: 3
+🏥 Estado final: admitted
+--------------------------------------------------
+👤 Paciente 10
+🩺 Síntomas: fiebre, dolor de cabeza, dolor en el pecho
+📋 Diagnóstico: Posible infección viral
+⚠️ Nivel de urgencia: 2
+🏥 Estado final: admitted
+--------------------------------------------------
